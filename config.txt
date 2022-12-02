@@ -16,14 +16,8 @@
 "tian_api": "8893c8e356cc8ae0b60c2e56fd546125",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "武冈",
-# 生日1
-"birthday1": {"name": "Mr", "birthday": "r2005-11-08"},
-# 生日2
-"birthday2": {"name": "Ms", "birthday": "r2007-07-09"},
-# 在一起的日子，格式同上
-"love_date": "2022-09-07",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "只祝你平安",
+"note_ch": "别听他胡说，我没有给女生当狗",
 # 金句英文
 
 "note_en": "Keep warm when the weather is cold"
